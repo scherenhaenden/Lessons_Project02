@@ -16,7 +16,7 @@
 
 ### check that the given number are real number.
 
-### if the input fiven by the user is not correct (not a number) repeat the question and remind the user again
+### if the input given by the user is not correct (e.g.: not a number) repeat the question and remind the user again
 ### that he should give only numbers
 
 ### add an option to exit the program (breaking the operations).
