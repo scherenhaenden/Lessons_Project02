@@ -1,5 +1,6 @@
 ﻿using System;
-using Learning_Project02.Math;
+
+using Learning_Project02;
 
 namespace Learning_Project02
 {
@@ -18,5 +19,7 @@ namespace Learning_Project02
             Console.WriteLine($"The summatory of the first value " + value1 + " and the second value "+ value2+ " is:");
             Console.WriteLine(result);
         }
+
+        
     }
 }
